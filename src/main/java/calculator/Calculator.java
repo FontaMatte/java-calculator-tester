@@ -4,11 +4,6 @@ public class Calculator {
     private float num1;
     private float num2;
 
-    // CONSTRUCTOR
-    public Calculator(float num1, float num2) {
-        this.num1 = num1;
-        this.num2 = num2;
-    }
 
     // PUBLIC METHODS
     public float add(float num1, float num2) {
